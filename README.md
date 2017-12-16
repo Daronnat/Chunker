@@ -11,7 +11,6 @@ By default the text and the rules are in French, but you can change them at any 
 * On the main box you can input your own text to analyse.
 * On the other box, you can create rules that will constrain the parsing of the input text.
 
-
 ### Prerequisites
 
 A machine that supports PHP7 and HTML5.

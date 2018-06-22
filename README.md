@@ -21,7 +21,7 @@ A machine that supports PHP7 and HTML5.
 
 ## Authors
 
-* **Sylvain Daronnat** - [Sylvain Daronnat's github](https://github.com/Daronnat)
+* **Sylvain Daronnat** - [Sylvain Daronnat's github](https://github.com/daronnat)
 
 ## License
 
